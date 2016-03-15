@@ -6,6 +6,7 @@ It is derived from the official Angular 2 Documentation which can be found [here
 ## Usage
 Follow the following steps and you're good to go! Important: Typescript and npm has to be installed on your machine!
 1: Clone this repo
+```
 2: Install packages
 ```
 npm install
